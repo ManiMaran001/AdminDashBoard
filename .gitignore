@@ -4,12 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-/package-lock.json
-/package.json
-/tscongig.json
-/tailwind.config.js
+.package-lock.json
+.package.json
+.tscongig.json
+.tailwind.config.js
 # testing
-/coverage
+.coverage
 
 # production
 /build
